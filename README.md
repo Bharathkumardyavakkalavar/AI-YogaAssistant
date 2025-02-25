@@ -11,18 +11,18 @@ This project focuses on providing real-time feedback on yoga postures using comp
 ## Architectural Workflow
 The following diagram illustrates the workflow of the posture estimation system:
 
-[Architectural Workflow](images/Screenshot 2025-02-25 172303.png)
+[Architectural Workflow](images/Architectural_workflow.png)
 
 ## Keypoints Visualization
 The system detects key points on the human body to estimate yoga poses. Below is an example visualization of detected key points:
 
-[Keypoints Visualization](images/Screenshot 2025-02-25 172051.png)
+[Keypoints Visualization](images/Key_points.png)
 
 ## Results
 The following images show the results of the posture estimation process, including correct and incorrect posture feedback:
 
-[Initial results](images/Screenshot 2025-02-25 172705.png)
-[Final results](images/Screenshot 2025-02-25 172106.png)
+[Initial results](initial_results.png)
+[Final results](images/Final_results.png)
 
 ## Dataset
 The project uses the dataset located in `angle_teacher_yoga.csv`, which contains key angle measurements for various yoga poses. This data is utilized in the machine learning algorithms to analyze and provide feedback on user posture.
