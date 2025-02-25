@@ -11,7 +11,7 @@ This project focuses on providing real-time feedback on yoga postures using comp
 ## Architectural Workflow
 The following diagram illustrates the workflow of the posture estimation system:
 
-![Architectural Workflow](path_to_architectural_workflow_image.png)
+![Architectural Workflow](images/Screenshot 2025-02-25 172303.png)
 
 ## Keypoints Visualization
 The system detects key points on the human body to estimate yoga poses. Below is an example visualization of detected key points:
