@@ -22,7 +22,7 @@ The system detects key points on the human body to estimate yoga poses. Below is
 The following images show the results of the posture estimation process, including correct and incorrect posture feedback:
 
 ![Result Example 1](path_to_result_image_1.png)
-![Result Example 2](path_to_result_image_2.png)
+![Result Example 2](images/Screenshot 2025-02-25 172106.png)
 
 ## Dataset
 The project uses the dataset located in `angle_teacher_yoga.csv`, which contains key angle measurements for various yoga poses. This data is utilized in the machine learning algorithms to analyze and provide feedback on user posture.
