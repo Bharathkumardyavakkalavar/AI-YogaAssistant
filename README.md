@@ -18,9 +18,10 @@ The system detects key points on the human body to estimate yoga poses. Below is
 
 ![Keypoints Visualization](images/Key_points.png)
 
-## Results
+## Initial Results
 The following images shows the media_pipe keypoint detection results:
 ![Initial results](initial_results.png)
+## Final Results
 The following images show the results of the posture estimation process, including correct and incorrect posture feedback:
 ![Final results](images/Final_results.png)
 
