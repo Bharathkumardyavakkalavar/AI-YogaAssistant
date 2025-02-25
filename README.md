@@ -16,7 +16,7 @@ The following diagram illustrates the workflow of the posture estimation system:
 ## Keypoints Visualization
 The system detects key points on the human body to estimate yoga poses. Below is an example visualization of detected key points:
 
-![Keypoints Visualization](path_to_keypoints_visualization_image.png)
+![Keypoints Visualization](images/Screenshot 2025-02-25 172051.png)
 
 ## Results
 The following images show the results of the posture estimation process, including correct and incorrect posture feedback:
